@@ -1,4 +1,5 @@
 # Bezos API Mandate
+
 In 2002, Amazon founder and CEO Jeff Bezos sent a mandate to his employees that has since become legendary in IT circles. It reads as follows:
 
 1. All teams will henceforth expose their data and functionality through service interfaces.
